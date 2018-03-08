@@ -1,2 +1,2 @@
 # dataset
-Collection of all data-ets for convenience 
+Collection of all datasets for convenience 
